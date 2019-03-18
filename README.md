@@ -1,2 +1,3 @@
 # Beer-Reviews
-Performed Data Visualization and Data Analysis on the "Beer Reviews" dataset
+
+Performed Data Visualization, Data Analysis and Data Modeling on the "Beer Reviews" dataset
